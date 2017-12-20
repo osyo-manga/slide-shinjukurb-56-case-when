@@ -14,7 +14,7 @@
 
 ---
 
-## [自作 gem](https://rubygems.org/profiles/osyo-manga)
+## [今年自作した gem](https://rubygems.org/profiles/osyo-manga)
 - - -
 
 * [iolite](https://github.com/osyo-manga/gem-iolite)
@@ -25,10 +25,8 @@
   * mixin したモジュールを削除する gem
 * [proc-unbind](https://github.com/osyo-manga/gem-proc-unbind)
   * `Proc` から `UnboundMethod` を定義する
-
----
-
-## アドベントカレンダーやってます！！
+* [laurel](https://github.com/osyo-manga/gem-laurel)
+  * `|` や `&` なんかをいい感じに展開してくれる gem
 
 ---
 
@@ -72,7 +70,7 @@ p (0..5).map &method(:func)
 # => ["other", "one", "two", "three", "other", "other"]
 ```
 
-内部で `===` を使って比較を行っている  <!-- .element: class="fragment" -->
+内部で === を使って比較を行っている  <!-- .element: class="fragment" -->
 
 ---
 
@@ -228,7 +226,7 @@ end
 #=> "fruit"
 ```
 
-`===` ブームの流れが来てるぞ…。
+`===` ブームの流れが来てるぞ…。  <!-- .element: class="fragment" -->
 
 
 ---
@@ -356,6 +354,16 @@ p twice "homu"   # => "other"
 - - -
 
 ## case-when 楽しいのでみんなやろう
+
+---
+
+## 今年を振り返って、来年の抱負
+- - -
+
+* 楽しい gem をつくることができた
+* LT や勉強会などに参加できた
+* Ruby 本体にパッチを投げて採用された
+* 来年は Rails や Hanami などの生産性のあることをやりたい
 
 ---
 
