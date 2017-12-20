@@ -17,7 +17,7 @@
 
 ---
 
-## [今年自作した gem](https://rubygems.org/profiles/osyo-manga)
+## [自作 gem](https://rubygems.org/profiles/osyo-manga)
 - - -
 
 * [iolite](https://github.com/osyo-manga/gem-iolite)
