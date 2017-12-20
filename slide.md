@@ -11,6 +11,8 @@
 * Twitter : [@pink_bangbi](https://twitter.com/pink_bangbi)
 * github  : [osyo-manga](https://github.com/osyo-manga)
 * ブログ  : [Secret Garden(Instrumental)](http://secret-garden.hatenablog.com)
+* 言語：Ruby、C++、JavaScript
+* エディタ：Vim
 
 ---
 
@@ -25,8 +27,6 @@
   * mixin したモジュールを削除する gem
 * [proc-unbind](https://github.com/osyo-manga/gem-proc-unbind)
   * `Proc` から `UnboundMethod` を定義する
-* [laurel](https://github.com/osyo-manga/gem-laurel)
-  * `|` や `&` なんかをいい感じに展開してくれる gem
 
 ---
 
