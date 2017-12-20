@@ -13,6 +13,7 @@
 * ブログ  : [Secret Garden(Instrumental)](http://secret-garden.hatenablog.com)
 * 言語：Ruby、C++、JavaScript
 * エディタ：Vim
+* ※：Rails はほとんどわからない
 
 ---
 
